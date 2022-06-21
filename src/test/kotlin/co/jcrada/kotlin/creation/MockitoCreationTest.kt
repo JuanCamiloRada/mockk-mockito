@@ -1,4 +1,4 @@
-package co.jcrada.kotlin.miscellaneous
+package co.jcrada.kotlin.creation
 
 import co.jcrada.kotlin.Adder
 import org.junit.jupiter.api.Assertions.assertNotNull

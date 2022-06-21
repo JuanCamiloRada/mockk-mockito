@@ -1,4 +1,4 @@
-package co.jcrada.kotlin.mock
+package co.jcrada.kotlin.mocks
 
 import co.jcrada.kotlin.Adder
 import co.jcrada.kotlin.Multiplier
